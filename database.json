@@ -1,0 +1,479 @@
+{
+    "notices": [
+        {
+            "id": 2,
+            "title": "check",
+            "desc": "check",
+            "author": "Prof. Amit Deshmukh",
+            "role": "Head of Department",
+            "date": "23 Jul 2026",
+            "expiry": "2026-07-24",
+            "attachment": "uploads\/ChatGPT Image Jul 16, 2026, 02_55_47 PM.png",
+            "size": "1.5MB"
+        }
+    ],
+    "assignments": [
+        {
+            "id": 1,
+            "unit": 1,
+            "title": "Unit 1 - Introduction to Basics",
+            "desc": "Solve all the questions given in the assignment.",
+            "due": "25 Jul 2026 11:59 PM",
+            "status": "graded",
+            "file": "assignment_1_prasad.pdf",
+            "marks": "7 \/ 10",
+            "created_by": "Prof. Rajesh Sharma"
+        },
+        {
+            "id": 2,
+            "unit": 2,
+            "title": "Unit 2 - Data Structures",
+            "desc": "Answer all questions in detail.",
+            "due": "08 Aug 2026 11:59 PM",
+            "status": "graded",
+            "file": "assignment_2_final.pdf",
+            "marks": "10 \/ 10",
+            "created_by": "Prof. Rajesh Sharma"
+        },
+        {
+            "id": 3,
+            "unit": 3,
+            "title": "Unit 3 - Object Oriented Programming",
+            "desc": "Complete the assignment as per instructions.",
+            "due": "22 Aug 2026 11:59 PM",
+            "status": "pending",
+            "file": "",
+            "marks": "Pending",
+            "created_by": "Prof. Neha Patil"
+        },
+        {
+            "id": 4,
+            "unit": 4,
+            "title": "Unit 4 - Database Management Systems",
+            "desc": "Submit all the questions.",
+            "due": "05 Sep 2026 11:59 PM",
+            "status": "pending",
+            "file": "",
+            "marks": "Pending",
+            "created_by": "Prof. Rajesh Sharma"
+        },
+        {
+            "id": 5,
+            "unit": 5,
+            "title": "Unit 5 - Operating Systems",
+            "desc": "Answer the given questions.",
+            "due": "20 Sep 2026 11:59 PM",
+            "status": "pending",
+            "file": "",
+            "marks": "Pending",
+            "created_by": "Prof. Amit Deshmukh"
+        },
+        {
+            "id": 6,
+            "unit": 6,
+            "title": "Unit 6 - Computer Networks",
+            "desc": "Complete and submit the assignment.",
+            "due": "05 Oct 2026 11:59 PM",
+            "status": "pending",
+            "file": "",
+            "marks": "Pending",
+            "created_by": "Prof. Neha Patil"
+        },
+        {
+            "id": 7,
+            "unit": 7,
+            "title": "FINAL",
+            "desc": "Complete the assignment as per instructions.",
+            "due": "20 Jul 2026 11:59 AMM",
+            "status": "pending",
+            "file": "uploads\/ChatGPT Image Jul 16, 2026, 02_56_51 PM.png",
+            "marks": "Pending",
+            "created_by": "Prof. Rajesh Sharma"
+        },
+        {
+            "id": 8,
+            "unit": 8,
+            "title": "STRUCTRE",
+            "desc": "Complete the assignment as per instructions.",
+            "due": "22 Jul 2026 11:59 AMM",
+            "status": "pending",
+            "file": "uploads\/login_illustration.png",
+            "marks": "Pending",
+            "created_by": "Prof. Rajesh Sharma"
+        },
+        {
+            "id": 9,
+            "unit": 9,
+            "title": "SOHAM",
+            "desc": "Complete the assignment as per instructions.",
+            "due": "22 Jul 2026 11:59 AMM",
+            "status": "pending",
+            "file": "uploads\/ChatGPT Image Jul 16, 2026, 02_56_51 PM.png",
+            "marks": "Pending",
+            "created_by": "Prof. Rajesh Sharma"
+        },
+        {
+            "id": 10,
+            "unit": 10,
+            "title": "check",
+            "desc": "Complete the assignment as per instructions.",
+            "due": "23 Jul 2026 11:59 AMM",
+            "status": "pending",
+            "file": "uploads\/ChatGPT Image Jul 16, 2026, 02_56_51 PM.png",
+            "marks": "Pending",
+            "created_by": "Prof. Rajesh Sharma"
+        }
+    ],
+    "assignment_submissions": [
+        {
+            "id": 1,
+            "assignment_unit": 1,
+            "student_id": "125UIT1080",
+            "student_name": "Prasad Kulkarni",
+            "file": "assignment_1_prasad.pdf",
+            "status": "graded",
+            "marks": "7 \/ 10"
+        },
+        {
+            "id": 2,
+            "assignment_unit": 2,
+            "student_id": "125UIT1080",
+            "student_name": "Prasad Kulkarni",
+            "file": "assignment_2_final.pdf",
+            "status": "graded",
+            "marks": "10 \/ 10"
+        },
+        {
+            "id": 3,
+            "assignment_unit": 3,
+            "student_id": 1,
+            "student_name": "Prasad Kulkarni",
+            "file": "uploads\/ChatGPT Image Jul 16, 2026, 02_56_51 PM.png",
+            "status": "graded",
+            "marks": "5 \/ 10"
+        },
+        {
+            "id": 4,
+            "assignment_unit": 4,
+            "student_id": 1,
+            "student_name": "Prasad Kulkarni",
+            "file": "uploads\/ChatGPT Image Jul 16, 2026, 02_56_51 PM.png",
+            "status": "graded",
+            "marks": "0 \/ 10"
+        },
+        {
+            "id": 5,
+            "assignment_unit": 5,
+            "student_id": 1,
+            "student_name": "Prasad Kulkarni",
+            "file": "uploads\/ChatGPT Image Jul 16, 2026, 02_56_16 PM.png",
+            "status": "submitted",
+            "marks": "Pending"
+        },
+        {
+            "id": 6,
+            "assignment_unit": 2,
+            "student_id": 1,
+            "student_name": "Prasad Kulkarni",
+            "file": "uploads\/ChatGPT Image Jul 16, 2026, 02_56_51 PM.png",
+            "status": "graded",
+            "marks": "8 \/ 10"
+        },
+        {
+            "id": 7,
+            "assignment_unit": 1,
+            "student_id": 1,
+            "student_name": "Prasad Kulkarni",
+            "file": "uploads\/login_illustration.png",
+            "status": "submitted",
+            "marks": "Pending"
+        },
+        {
+            "id": 8,
+            "assignment_unit": 6,
+            "student_id": 1,
+            "student_name": "Prasad Kulkarni",
+            "file": "uploads\/login_illustration.png",
+            "status": "submitted",
+            "marks": "Pending"
+        },
+        {
+            "id": 9,
+            "assignment_unit": 9,
+            "student_id": 1,
+            "student_name": "Prasad Kulkarni",
+            "file": "uploads\/ChatGPT Image Jul 16, 2026, 02_56_51 PM.png",
+            "status": "graded",
+            "marks": "6 \/ 10"
+        }
+    ],
+    "leaves": [
+        {
+            "id": 8,
+            "applicant_name": "Prasad Kulkarni",
+            "applicant_role": "Student",
+            "file": "Leave_Form_20_Jul_2026.pdf",
+            "reason": "Personal",
+            "from": "2026-07-21",
+            "to": "2026-07-31",
+            "status": "Approved",
+            "remarks": ""
+        },
+        {
+            "id": 9,
+            "applicant_name": "Prasad Kulkarni",
+            "applicant_role": "Student",
+            "file": "login_illustration.png",
+            "reason": "Personal",
+            "from": "2026-07-29",
+            "to": "2026-07-30",
+            "status": "Approved",
+            "remarks": ""
+        },
+        {
+            "id": 4,
+            "applicant_name": "Prasad Kulkarni",
+            "applicant_role": "Student",
+            "file": "ChatGPT Image Jul 16, 2026, 02_56_51 PM.png",
+            "reason": "Medical",
+            "from": "2026-07-23",
+            "to": "2026-07-24",
+            "status": "Pending",
+            "remarks": ""
+        }
+    ],
+    "students": [
+        {
+            "id": "125UIT1080",
+            "prn": "IT0001",
+            "username": "125UIT1080",
+            "name": "Prasad Kulkarni",
+            "email": "prasad.kulkarni@erp.edu",
+            "phone": "+91 99223 34455",
+            "dept": "IT - Div A (A2)",
+            "semester": "5th Semester",
+            "attendance": "85%",
+            "status": "Active",
+            "avatar": "https:\/\/images.unsplash.com\/photo-1539571696357-5a69c17a67c6?q=80&w=150&auto=format&fit=crop"
+        },
+        {
+            "id": "125UIT1081",
+            "prn": "IT0002",
+            "username": "sneha81",
+            "name": "Sneha Deshmukh",
+            "email": "sneha.deshmukh@erp.edu",
+            "phone": "+91 98877 66554",
+            "dept": "IT - Div A (A2)",
+            "semester": "5th Semester",
+            "attendance": "94%",
+            "status": "Active",
+            "avatar": "https:\/\/images.unsplash.com\/photo-1494790108377-be9c29b29330?q=80&w=150&auto=format&fit=crop"
+        },
+        {
+            "id": "125UIT1082",
+            "prn": "IT0003",
+            "username": "rahul82",
+            "name": "Rahul Sharma",
+            "email": "rahul.sharma@erp.edu",
+            "phone": "+91 97766 55443",
+            "dept": "IT - Div B (B1)",
+            "semester": "5th Semester",
+            "attendance": "72%",
+            "status": "Active",
+            "avatar": "https:\/\/images.unsplash.com\/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop"
+        },
+        {
+            "id": "125UIT6080",
+            "prn": "IT0004",
+            "username": "tusharsonar95",
+            "name": "Tushar Sonar",
+            "email": "tushar@gmail.com",
+            "phone": "9999999999",
+            "dept": "IT - Div A (A1)",
+            "semester": "1st Semester",
+            "attendance": "100%",
+            "status": "Active",
+            "avatar": "https:\/\/ui-avatars.com\/api\/?name=Tushar+Sonar&background=random"
+        },
+        {
+            "id": "125UIT6562",
+            "prn": "IT0005",
+            "username": "ajay91",
+            "name": "Ajay",
+            "email": "ajay@gmail.com",
+            "phone": "9876543210",
+            "dept": "IT - Div A (A1)",
+            "semester": "1st Semester",
+            "attendance": "100%",
+            "status": "Active",
+            "avatar": "https:\/\/ui-avatars.com\/api\/?name=Ajay&background=random"
+        }
+    ],
+    "faculty": [
+        {
+            "id": "em2.faculty",
+            "username": "em2.faculty",
+            "name": "Ms. Priyanka Patil",
+            "email": "em2.faculty@erp.edu",
+            "phone": "+91 91122 33001",
+            "designation": "Assistant Professor",
+            "workload": "16 Hours / Week",
+            "attendance": "95%",
+            "subjects": "Engineering Mathematics II (EM-II)",
+            "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?q=80&w=150&auto=format&fit=crop"
+        },
+        {
+            "id": "physics.faculty",
+            "username": "physics.faculty",
+            "name": "Dr. Yogesh Sonawane",
+            "email": "physics.faculty@erp.edu",
+            "phone": "+91 91122 33002",
+            "designation": "Associate Professor",
+            "workload": "14 Hours / Week",
+            "attendance": "96%",
+            "subjects": "Engineering Physics (EP)",
+            "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=150&auto=format&fit=crop"
+        },
+        {
+            "id": "dsda.faculty",
+            "username": "dsda.faculty",
+            "name": "Dr. Ashwini Kumar Mishra",
+            "email": "dsda.faculty@erp.edu",
+            "phone": "+91 91122 33003",
+            "designation": "Professor",
+            "workload": "12 Hours / Week",
+            "attendance": "97%",
+            "subjects": "Digital Systems Design & Architecture (DSDA)",
+            "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=150&auto=format&fit=crop"
+        },
+        {
+            "id": "cpp.faculty",
+            "username": "cpp.faculty",
+            "name": "Mr. Karan Jadhav",
+            "email": "cpp.faculty@erp.edu",
+            "phone": "+91 91122 33004",
+            "designation": "Assistant Professor",
+            "workload": "16 Hours / Week",
+            "attendance": "95%",
+            "subjects": "Foundations of C++ Programming (C++)",
+            "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=150&auto=format&fit=crop"
+        },
+        {
+            "id": "fcsn.faculty",
+            "username": "fcsn.faculty",
+            "name": "Mr. Sumesh Shinde",
+            "email": "fcsn.faculty@erp.edu",
+            "phone": "+91 91122 33005",
+            "designation": "Assistant Professor",
+            "workload": "16 Hours / Week",
+            "attendance": "94%",
+            "subjects": "Fundamentals of Computer Systems & Networking (FCSN)",
+            "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=150&auto=format&fit=crop"
+        },
+        {
+            "id": "hod1",
+            "username": "hod1",
+            "name": "Prof. Amit Deshmukh",
+            "email": "amit.deshmukh@erp.edu",
+            "phone": "+91 93344 55667",
+            "designation": "Professor & HOD",
+            "workload": "8 Hours / Week",
+            "attendance": "98%",
+            "subjects": "Operating Systems, Software Engineering",
+            "avatar": "https://images.unsplash.com/photo-1560250097-0b93528c311a?q=80&w=150&auto=format&fit=crop"
+        }
+    ],
+    "grievances": [],
+    "recent_activity": [
+        {
+            "title": "Grievance Raised",
+            "desc": "Prasad Kulkarni reported \"IUGHEIWJF\"",
+            "time": "Just now"
+        },
+        {
+            "title": "Grievance Raised",
+            "desc": "Prasad Kulkarni reported \"SACAJSF\"",
+            "time": "Just now"
+        },
+        {
+            "title": "Notice Published",
+            "desc": "Department Head published a new notice: check",
+            "time": "Just now"
+        }
+    ],
+    "settings": {
+        "dept_name": "Information Technology",
+        "dept_code": "IT-ENGG",
+        "intake": "120",
+        "hod_name": "Prof. Amit Deshmukh",
+        "hod_email": "amit.deshmukh@erp.edu",
+        "hod_phone": "+91 93344 55667",
+        "notifications_enabled": true,
+        "captcha_enabled": true,
+        "maintenance_mode": false,
+        "site_name": "ABC College",
+        "academic_year": "2025-26",
+        "default_timezone": "(GMT+05:30) Asia\/Kolkata",
+        "date_format": "DD-MM-YYYY",
+        "session_timeout": "30",
+        "email_from": "no-reply@abccollege.edu.in",
+        "address": "123 College Road, Kolkata, West Bengal, 700001",
+        "phone": "+91 98765 43210",
+        "website": "www.abccollege.edu.in",
+        "established_year": "2001",
+        "current_semester": "Even Semester",
+        "total_departments": "12 Departments",
+        "total_courses": "36 Courses",
+        "sections_divisions": "18 Sections",
+        "grading_system": "CGPA",
+        "total_users": "9",
+        "admin_users": "1",
+        "faculty_users": "3",
+        "student_users": "5",
+        "roles_defined": "1 Roles Defined",
+        "total_roles": "6",
+        "system_modules": "15",
+        "permission_groups": "8",
+        "custom_permissions": "Enabled",
+        "email_notifications": "Enabled",
+        "sms_notifications": "Enabled",
+        "in_app_notifications": "Enabled",
+        "notice_duration": "7 Days",
+        "password_policy": "Strong",
+        "two_factor_auth": "Enabled",
+        "login_history": "View Logs",
+        "last_backup": "22 july 2025, 02:30 AM",
+        "backup_frequency": "Daily",
+        "auto_backup": "Enabled",
+        "restore_points": "12 Available",
+        "language": "English",
+        "theme": "Light",
+        "system_status": "Healthy",
+        "cache": "Clear Cache",
+        "database_size": "1.24 GB",
+        "system_logs": "View Logs"
+    },
+    "departments": [
+        {
+            "id": "dept_1",
+            "name": "Information Technology",
+            "code": "IT-ENGG",
+            "intake": 120,
+            "hod_name": "Prof. Amit Deshmukh"
+        },
+        {
+            "id": "dept_2",
+            "name": "Computer Engineering",
+            "code": "CE-ENGG",
+            "intake": 180,
+            "hod_name": "Dr. Neha Sharma"
+        },
+        {
+            "id": "dept_1784702239",
+            "name": "Mechanical Engineering",
+            "code": "ME-Engg",
+            "intake": 50,
+            "hod_name": "Dr. Rajesh Kumar"
+        }
+    ]
+}
